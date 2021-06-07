@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="starting_player"
+        android:title="Switch Starting Player"
+        android:switchTextOn="@string/PlayerO"
+        android:summaryOn="@string/PlayerO"
+        android:switchTextOff="@string/PlayerX"
+        android:summaryOff="@string/PlayerX"
+        />
+</PreferenceScreen>

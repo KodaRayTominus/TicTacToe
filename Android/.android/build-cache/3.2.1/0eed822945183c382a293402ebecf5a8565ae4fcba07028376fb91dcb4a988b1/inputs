@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=D:\Gradel\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1e8a6a516336982234d3f426d5ebf589\jars\classes.jar
+FILE.hash=2f30923c711a7f7c4c400bd00a3fac8baec5858293fccf6bbd08f4e38faeb692
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=15
+IS_DEBUGGABLE=true
